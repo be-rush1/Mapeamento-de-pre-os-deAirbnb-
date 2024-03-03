@@ -4,8 +4,7 @@ Mapeamento de acomodações da plataforma de Airbnb usando Python.
 ## Dados do Airbnb
 Os dados das acomodações Airbnb da cidade do Rio de Janeiro estão disponíveis no seguinte link: http://insideairbnb.com/get-the-data/. Eu baixei o arquivo listings.csv para visualizar os dados referentes aos preços da diária em relação à localização da acomodação na cidade.
 
-![Uploading Screenshot 2024-03-03 at 14.42.12.png…]()
-
+![Alt text](inside.png?raw=true "Optional Title")
 ## Arquivo .shp do Rio de Janeiro
 Utilizei o arquivo Shapefile do município do Rio de Janeiro que está disponível em: https://www.data.rio/datasets/3cd6efde472441aaa6c1ad25075190e1/explore como base para o mapeamento dos preços. Esse tipo de arquivo é essencial para geoprocessamento, pois possui atributos de feições geográficas que são muito úteis para mapeamentos de dados e sua visualização.
 
